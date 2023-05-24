@@ -1,0 +1,58 @@
+[
+	{
+		"CharacterName" : "Boba Fett",
+		"LineText" : "What is it Jabba?"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "I have a mission for you."
+	},
+	{
+		"CharacterName" : "Boba Fett",
+		"LineText" : "I can't right now. I already am on a mission."
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "Boba this is urgent!"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "That smuggler Han Solo has escaped! He owes me a lot of money!"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "You are my best bounty hunter... Only you can get him."
+	},
+	{
+		"CharacterName" : "Boba Fett",
+		"LineText" : "Dead or alive?"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "I need him alive."
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "I have also put a generous price on him..."
+	},
+	{
+		"CharacterName" : "Boba Fett",
+		"LineText" : "How much?"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "Fifty thousand credits!"
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "You can't ignore this offer..."
+	},
+	{
+		"CharacterName" : "Boba Fett",
+		"LineText" : "Okay, I am on it."
+	},
+	{
+		"CharacterName" : "Jabba the Hutt",
+		"LineText" : "Good... I'm sure both of us will be satisfied."
+	}
+]

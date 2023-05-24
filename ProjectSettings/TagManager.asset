@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tilemap
+  - Enemy
+  - Other
+  - Boss
+  - OtherSolid
+  - OtherNonSolid
+  - Friendly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GameWorldSolid
+  - GameWorldNonSolid
+  - Other
+  - Player
+  - Tilemap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 486769817
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3426389329
+    locked: 0
+  - name: Platforms
+    uniqueID: 673360459
+    locked: 0
+  - name: BackItems
+    uniqueID: 3880831347
+    locked: 0
+  - name: Entities
+    uniqueID: 1393590013
+    locked: 0
+  - name: Player
+    uniqueID: 2391725081
+    locked: 0
+  - name: FrontItems
+    uniqueID: 2630792231
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1123809823
+    locked: 0
+  - name: Camera
+    uniqueID: 1602952131
+    locked: 0
